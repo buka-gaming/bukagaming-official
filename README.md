@@ -33,7 +33,7 @@ We offer **real-time RTP tracking**, **gacor game data**, and a fast mobile-firs
 
 ## 🔗 Useful Links
 
-- 🌐 [Website](https://bukagaming.com)  
+- 🌐 [Bukagaming](https://bukagaming.com)  
 - 🧠 [Product Hunt Page](https://www.producthunt.com/products/bukagaming)  
 - 💼 [LinkedIn](https://www.linkedin.com/company/bukagaming)  
 - 🧾 [Crunchbase](https://www.crunchbase.com/organization/bukagaming)  
